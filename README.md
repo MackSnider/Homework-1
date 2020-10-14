@@ -7,7 +7,7 @@ Homework for MMED-1054. Due on Friday, October 16th. Making a 1-page app reposit
 # Installation 
 Copy repository from GitHub. Paste in the location of the project.
 
-#license
+# License
 Copyright 2020 Mackenzie Snider 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
